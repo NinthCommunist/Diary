@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="hintCaseName">Название дела</string>
+    <string name="CaseDescription">Описание дела</string>
+    <string name="Date">Дата:</string>
+    <string name="Save">Сохранить</string>
+</resources>
